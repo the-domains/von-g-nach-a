@@ -1,0 +1,28 @@
+name: von.G.nach.A
+favicon: null
+layout_spectrum: 0.13135910709388554
+typography_spectrum: 0.37553738593123853
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.17045995919033885
+  lightness: 0.8459732974879444
+  saturation: 0.3207268735859543
+  rhythmicContrast: 0.8344403295777738
+purpose: []
